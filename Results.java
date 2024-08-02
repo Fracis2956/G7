@@ -41,6 +41,5 @@ public class Student {
 
 	void myTest()
 {
-		System.out.println("Bye");
 }
 }
