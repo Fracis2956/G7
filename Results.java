@@ -21,6 +21,10 @@ public class Student {
         return (RE+SDA+SQAT+SEAM+FM)/4;
     }
 
+    double getMark()
+    {
+        return (RE+SDA+SQAT+SEAM+FM)/4;
+    }
   
     int getTotal()
     {
